@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./meteor_3.gif" width="27px">
+  <img src="./meteor.gif" width="27px">
   <br><br>
   <samp>
     :wave: Hi! My name is Harry, I'm a self taught developer.
@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/harryadel/">
   <img align="left" alt="linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" draggable="false" />
 </a>
-<a href="harryadel@gmail.com">
+<a href="mailto:harryadel@gmail.com">
   <img align="left" alt="gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" draggable="false" />
 </a>
 
