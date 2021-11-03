@@ -20,9 +20,6 @@
 <a href="https://stackoverflow.com/users/6688795/harry-adel">
   <img align="left" alt="stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" draggable="false" />
 </a>
-<a href="https://www.linkedin.com/in/harryadel/">
-  <img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/material-outlined/100/000000/linkedin.png" draggable="false" />
-</a>
 <a href="mailto:harryadel@gmail.com">
   <img align="left" alt="gmail" width="30px" src="https://img.icons8.com/ios-glyphs/64/000000/gmail-login.png" draggable="false" />
 </a>
