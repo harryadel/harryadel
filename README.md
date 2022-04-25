@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: Hi! My name is Harry, I'm a self taught developer.
-    <br>I do JS but I mostly enjoy working with <img src='https://assets.website-files.com/5dd3f8176674eb0829f184d5/5dd41eb9049df81f8773946e_meteor-logo.svg' alt='Meteor' height='16'>  framework.
+    <br>I do JS but I mostly enjoy working with <a href="https://www.meteor.com/"><img src='https://assets.website-files.com/5dd3f8176674eb0829f184d5/5dd41eb9049df81f8773946e_meteor-logo.svg' alt='Meteor' height='16'></a>  framework.
   </samp>
 </p> 
 
