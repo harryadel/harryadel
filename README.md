@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./meteor.gif" width="27px">
+  <img src="./meteor.gif" width="27px" height="30px">
   <br><br>
   <samp>
     :wave: Hi! My name is Harry, I'm a self taught developer.
