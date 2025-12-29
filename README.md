@@ -35,5 +35,4 @@
 If you like my work and you want to support me, you can send me a tip via 
 
 - PayPal: https://paypal.me/HAdel397
-- Bitcoin: bc1qtpr3tslfyvacjuxxyl9v57gfr4cjvgk4alqpqp
 - Monero: 85rNKrJyw1DFdassuN4KckgPRTrD97pn2Tbgk2AFhVRaLeaJKeqKkoC7qRCvN4o8ryXNfB26YkUf1jnvxDJ1bz3SJGhi4cN
