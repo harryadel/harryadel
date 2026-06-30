@@ -7,6 +7,27 @@
   </samp>
 </p> 
 
+<h2 align="center">Featured Project</h2>
+
+<p align="center">
+  <a href="https://firely.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Firely-firely.app-ff5a3c?style=for-the-badge&labelColor=111111" alt="Firely app">
+  </a>
+</p>
+
+<p align="center">
+  <samp>
+    I'm currently building <a href="https://firely.app" target="_blank" rel="noopener noreferrer"><strong>Firely</strong></a>.
+    <br>
+    Check it out at <a href="https://firely.app" target="_blank" rel="noopener noreferrer">firely.app</a>
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    I also write at <a href="https://harryadel.com" target="_blank" rel="noopener noreferrer">harryadel.com</a>
+  </samp>
+</p>
 
 ## Social
 
@@ -18,14 +39,8 @@
 <a href="https://dev.to/harryadel">
   <img align="left" alt="dev" width="30px" src="https://img.icons8.com/windows/32/000000/dev.png" draggable="false" />
 </a>
-<a href="https://stackoverflow.com/users/6688795/harry-adel">
-  <img align="left" alt="stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" draggable="false" />
-</a>
 <a href="mailto:harryadel@gmail.com">
   <img align="left" alt="gmail" width="30px" src="https://img.icons8.com/ios-glyphs/64/000000/gmail-login.png" draggable="false" />
-</a>
-<a href="https://harryadel.github.io/">
-  <img align="left" alt="blog" width="30px" src="https://img.icons8.com/material-rounded/100/000000/blog.png" draggable="false" />
 </a>
 
 </div><br/>
