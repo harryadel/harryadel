@@ -2,21 +2,22 @@
   <img src="./meteor.gif" width="27px" height="30px">
   <br><br>
   <samp>
-    :wave: Hi! My name is Harry, I'm a self taught developer.
-    <br>I work with JS but I mostly enjoy working with <a href="https://www.meteor.com/" target="_blank" rel="noopener noreferrer"><img src='https://assets.website-files.com/5dd3f8176674eb0829f184d5/5dd41eb9049df81f8773946e_meteor-logo.svg' alt='Meteor' height='16'></a> framework.
+    :wave: Hi! I'm Harry, a self-taught developer working mostly with JavaScript.
+    <br>
+    I especially enjoy building with the <a href="https://www.meteor.com/" target="_blank" rel="noopener noreferrer"><img src='https://assets.website-files.com/5dd3f8176674eb0829f184d5/5dd41eb9049df81f8773946e_meteor-logo.svg' alt='Meteor' height='16'></a> framework.
   </samp>
 </p> 
 
 <p align="center">
   <samp>
-    I'm currently building <a href="https://firely.app" target="_blank" rel="noopener noreferrer"><strong>Firely</strong></a>.
     <br>
+    I'm building <a href="https://firely.app" target="_blank" rel="noopener noreferrer"><strong>Firely</strong></a> at <a href="https://firely.app" target="_blank" rel="noopener noreferrer">firely.app</a>.
   </samp>
 </p>
 
 <p align="center">
   <samp>
-    I also write at <a href="https://harryadel.com" target="_blank" rel="noopener noreferrer">harryadel.com</a>
+    For notes and longer thoughts, I write at <a href="https://harryadel.com" target="_blank" rel="noopener noreferrer">harryadel.com</a>.
   </samp>
 </p>
 
